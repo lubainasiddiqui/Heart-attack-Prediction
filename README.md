@@ -44,3 +44,8 @@ Dataset creators,
 ## Models used and accuracy
 A Random forest classifier achieves an average multi-class classification accuracy of 56-60%(183 test samples).
 It gets 75-80% average binary classification accuracy(heart disease or no heart disease).
+
+
+
+https://user-images.githubusercontent.com/49685839/169673598-3de1cc01-64a4-4316-8657-512f8ecdade9.mp4
+
