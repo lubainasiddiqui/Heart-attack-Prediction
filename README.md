@@ -1,4 +1,4 @@
-# Heart-Disease-Diagnosis
+# Heart-Disease-Prediction
 Predicts the presence of one of four types of heart disease(or none at all) using a patient's medical test report data.
 
 ## Dataset
