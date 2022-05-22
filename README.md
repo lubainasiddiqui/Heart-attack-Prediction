@@ -42,12 +42,15 @@ Dataset creators,
     `python main_file.py`
 
 ## Models used and accuracy
-A Random forest classifier achieves an average multi-class classification accuracy of 56-60%(183 test samples).
-It gets 75-80% average binary classification accuracy(heart disease or no heart disease).
+Total six ML models were used namely Logistic Regression, KNN, SVM, Naive Bayes, Decision tree and Random Forrest. Random forest classifier achieves an average multi-class classification accuracy of 56-60%(183 test samples). It gets 75-80% average binary classification accuracy(heart disease or no heart disease).
+
+# VIDEO
+
+https://user-images.githubusercontent.com/49685839/169673809-1bfa895e-3796-49c4-a30f-3bb220ec6863.mp4
 
 
+# SCREENSHOTS
 
-https://user-images.githubusercontent.com/49685839/169673598-3de1cc01-64a4-4316-8657-512f8ecdade9.mp4
 ![Capture](https://user-images.githubusercontent.com/49685839/169673754-01aea12c-6c43-431c-931b-ad33a38cceb7.PNG)
 ![Capture1](https://user-images.githubusercontent.com/49685839/169673756-1691f5b4-509c-4ab1-acdb-19d2bc9a5f65.PNG)
 ![Capture2](https://user-images.githubusercontent.com/49685839/169673757-5f8c20db-165d-43cc-a29d-c7ba6914e341.PNG)
